@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Construe: A knowledge-based abductive framework for time
+  series interpretation
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tomas
+    family-names: Teijeiro
+    email: tomas.teijeiro@gmail.com
+    orcid: 'https://orcid.org/0000-0002-2175-7382'
+license: AGPL-3.0
